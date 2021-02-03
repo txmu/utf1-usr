@@ -1,0 +1,209 @@
+
+Log started: 2021-01-08  19:48:07
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 3450 files and directories currently installed.)
+Preparing to unpack .../libgmp_6.2.1_aarch64.deb ...
+Unpacking libgmp (6.2.1) over (6.2.0-1) ...
+Setting up libgmp (6.2.1) ...
+Selecting previously unselected package libnettle.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 3450 files and directories currently installed.)
+Preparing to unpack .../libnettle_3.7_aarch64.deb ...
+Unpacking libnettle (3.7) ...
+Setting up libnettle (3.7) ...
+Selecting previously unselected package libunistring.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 3528 files and directories currently installed.)
+Preparing to unpack .../libunistring_0.9.10-4_aarch64.deb ...
+Unpacking libunistring (0.9.10-4) ...
+Setting up libunistring (0.9.10-4) ...
+Selecting previously unselected package libidn2.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 3576 files and directories currently installed.)
+Preparing to unpack .../libidn2_2.3.0-2_aarch64.deb ...
+Unpacking libidn2 (2.3.0-2) ...
+Setting up libidn2 (2.3.0-2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 3603 files and directories currently installed.)
+Preparing to unpack .../ca-certificates_20201208_all.deb ...
+Unpacking ca-certificates (20201208) over (20200722) ...
+Setting up ca-certificates (20201208) ...
+Selecting previously unselected package libgnutls.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 3603 files and directories currently installed.)
+Preparing to unpack .../libgnutls_3.6.15_aarch64.deb ...
+Unpacking libgnutls (3.6.15) ...
+Setting up libgnutls (3.6.15) ...
+Selecting previously unselected package liblz4.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4803 files and directories currently installed.)
+Preparing to unpack .../liblz4_1.9.3_aarch64.deb ...
+Unpacking liblz4 (1.9.3) ...
+Setting up liblz4 (1.9.3) ...
+Selecting previously unselected package xxhash.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4813 files and directories currently installed.)
+Preparing to unpack .../xxhash_0.8.0-1_aarch64.deb ...
+Unpacking xxhash (0.8.0-1) ...
+Setting up xxhash (0.8.0-1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4830 files and directories currently installed.)
+Preparing to unpack .../coreutils_8.32-7_aarch64.deb ...
+Unpacking coreutils (8.32-7) over (8.32-2) ...
+Setting up coreutils (8.32-7) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4830 files and directories currently installed.)
+Preparing to unpack .../archives/less_563_aarch64.deb ...
+Unpacking less (563) over (551-1) ...
+Setting up less (563) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4830 files and directories currently installed.)
+Preparing to unpack .../dpkg_1.20.5-5_aarch64.deb ...
+Unpacking dpkg (1.20.5-5) over (1.20.5) ...
+Setting up dpkg (1.20.5-5) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4830 files and directories currently installed.)
+Preparing to unpack .../libgpg-error_1.41_aarch64.deb ...
+Unpacking libgpg-error (1.41) over (1.38) ...
+Setting up libgpg-error (1.41) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4830 files and directories currently installed.)
+Preparing to unpack .../libgcrypt_1.8.7_aarch64.deb ...
+Unpacking libgcrypt (1.8.7) over (1.8.6) ...
+Setting up libgcrypt (1.8.7) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4830 files and directories currently installed.)
+Preparing to unpack .../gpgv_2.2.26_aarch64.deb ...
+Unpacking gpgv (2.2.26) over (2.2.21) ...
+Setting up gpgv (2.2.26) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4830 files and directories currently installed.)
+Preparing to unpack .../archives/grep_3.6_aarch64.deb ...
+Unpacking grep (3.6) over (3.4-1) ...
+Setting up grep (3.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4830 files and directories currently installed.)
+Preparing to unpack .../libcurl_7.74.0_aarch64.deb ...
+Unpacking libcurl (7.74.0) over (7.71.1) ...
+Setting up libcurl (7.74.0) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4843 files and directories currently installed.)
+Preparing to unpack .../curl_7.74.0_aarch64.deb ...
+Unpacking curl (7.74.0) over (7.71.1) ...
+Setting up curl (7.74.0) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4843 files and directories currently installed.)
+Preparing to unpack .../libnghttp2_1.42.0_aarch64.deb ...
+Unpacking libnghttp2 (1.42.0) over (1.41.0-1) ...
+Setting up libnghttp2 (1.42.0) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4843 files and directories currently installed.)
+Preparing to unpack .../openssl_1.1.1i_aarch64.deb ...
+Unpacking openssl (1.1.1i) over (1.1.1g-4) ...
+Setting up openssl (1.1.1i) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4843 files and directories currently installed.)
+Preparing to unpack .../apt_2.1.15_aarch64.deb ...
+Unpacking apt (2.1.15) over (1.4.10-2) ...
+Setting up apt (2.1.15) ...
+
+Configuration file '/data/data/com.termux/files/usr/etc/apt/sources.list'
+ ==> File on system created by you or by a script.
+ ==> File also in package provided by package maintainer.
+   What would you like to do about it ?  Your options are:
+    Y or I  : install the package maintainer's version
+    N or O  : keep your currently-installed version
+      D     : show the differences between the versions
+      Z     : start a shell to examine the situation
+ The default action is to keep your current version.
+*** sources.list (Y/I/N/O/D/Z) [default=N] ? Y
+Installing new version of config file /data/data/com.termux/files/usr/etc/apt/sources.list ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4835 files and directories currently installed.)
+Preparing to unpack .../readline_8.1.0_aarch64.deb ...
+Unpacking readline (8.1.0) over (8.0.4-1) ...
+Setting up readline (8.1.0) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4835 files and directories currently installed.)
+Preparing to unpack .../dash_0.5.11.3_aarch64.deb ...
+Unpacking dash (0.5.11.3) over (0.5.11.1) ...
+Setting up dash (0.5.11.3) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4835 files and directories currently installed.)
+Preparing to unpack .../archives/termux-am_0.4_all.deb ...
+Unpacking termux-am (0.4) over (0.3) ...
+Setting up termux-am (0.4) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4835 files and directories currently installed.)
+Preparing to unpack .../termux-exec_1%3a0.8_aarch64.deb ...
+Unpacking termux-exec (1:0.8) over (0.5) ...
+Setting up termux-exec (1:0.8) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4835 files and directories currently installed.)
+Preparing to unpack .../util-linux_2.36.1_aarch64.deb ...
+Unpacking util-linux (2.36.1) over (2.35.2-1) ...
+Setting up util-linux (2.36.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4841 files and directories currently installed.)
+Preparing to unpack .../termux-tools_0.104_all.deb ...
+Unpacking termux-tools (0.104) over (0.93) ...
+Setting up termux-tools (0.104) ...
+
+Configuration file '/data/data/com.termux/files/usr/etc/motd'
+ ==> File on system created by you or by a script.
+ ==> File also in package provided by package maintainer.
+   What would you like to do about it ?  Your options are:
+    Y or I  : install the package maintainer's version
+    N or O  : keep your currently-installed version
+      D     : show the differences between the versions
+      Z     : start a shell to examine the situation
+ The default action is to keep your current version.
+*** motd (Y/I/N/O/D/Z) [default=N] ? 
+Installing default termux.properties to ~/.termux/
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4845 files and directories currently installed.)
+Preparing to unpack .../bash_5.1.4_aarch64.deb ...
+Unpacking bash (5.1.4) over (5.0.18) ...
+Setting up bash (5.1.4) ...
+
+Configuration file '/data/data/com.termux/files/usr/etc/bash.bashrc'
+ ==> File on system created by you or by a script.
+ ==> File also in package provided by package maintainer.
+   What would you like to do about it ?  Your options are:
+    Y or I  : install the package maintainer's version
+    N or O  : keep your currently-installed version
+      D     : show the differences between the versions
+      Z     : start a shell to examine the situation
+ The default action is to keep your current version.
+*** bash.bashrc (Y/I/N/O/D/Z) [default=N] ? 
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4851 files and directories currently installed.)
+Preparing to unpack .../0-command-not-found_1.60_aarch64.deb ...
+Unpacking command-not-found (1.60) over (1.55-1) ...
+Preparing to unpack .../1-debianutils_4.11.2_aarch64.deb ...
+Unpacking debianutils (4.11.2) over (4.11-1) ...
+Preparing to unpack .../2-dos2unix_7.4.2_aarch64.deb ...
+Unpacking dos2unix (7.4.2) over (7.4.1-1) ...
+Preparing to unpack .../3-libtirpc_1.3.1_aarch64.deb ...
+Unpacking libtirpc (1.3.1) over (1.2.6-1) ...
+Preparing to unpack .../4-lsof_4.94.0_aarch64.deb ...
+Unpacking lsof (4.94.0) over (4.93.2) ...
+Preparing to unpack .../5-nano_5.4_aarch64.deb ...
+Unpacking nano (5.4) over (5.0) ...
+Preparing to unpack .../6-net-tools_2.10.0_aarch64.deb ...
+Unpacking net-tools (2.10.0) over (1.60.2017.02.21-3) ...
+Setting up libtirpc (1.3.1) ...
+Setting up net-tools (2.10.0) ...
+Setting up command-not-found (1.60) ...
+Setting up lsof (4.94.0) ...
+Setting up nano (5.4) ...
+update-alternatives: using /data/data/com.termux/files/usr/bin/nano to provide /data/data/com.termux/files/usr/bin/editor (editor) in auto mode
+Setting up debianutils (4.11.2) ...
+Setting up dos2unix (7.4.2) ...
+Log ended: 2021-01-08  19:55:31
+
+Log started: 2021-02-03  12:51:19
+Selecting previously unselected package pcre2.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4853 files and directories currently installed.)
+Preparing to unpack .../pcre2_10.36_aarch64.deb ...
+Unpacking pcre2 (10.36) ...
+Selecting previously unselected package git.
+Preparing to unpack .../git_2.30.0_aarch64.deb ...
+Unpacking git (2.30.0) ...
+Setting up pcre2 (10.36) ...
+Setting up git (2.30.0) ...
+Log ended: 2021-02-03  12:51:22
+
+Log started: 2021-02-03  12:51:43
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 5495 files and directories currently installed.)
+Preparing to unpack .../findutils_4.8.0_aarch64.deb ...
+Unpacking findutils (4.8.0) over (4.7.0-2) ...
+Setting up findutils (4.8.0) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 5495 files and directories currently installed.)
+Preparing to unpack .../ca-certificates_20210125_all.deb ...
+Unpacking ca-certificates (20210125) over (20201208) ...
+Setting up ca-certificates (20210125) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 5495 files and directories currently installed.)
+Preparing to unpack .../ncurses_6.2.20200725-1_aarch64.deb ...
+Unpacking ncurses (6.2.20200725-1) over (6.2.20200725) ...
+Setting up ncurses (6.2.20200725-1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 5500 files and directories currently installed.)
+Preparing to unpack .../archives/ed_1.17_aarch64.deb ...
+Unpacking ed (1.17) over (1.16-1) ...
+Preparing to unpack .../archives/nano_5.5_aarch64.deb ...
+Unpacking nano (5.5) over (5.4) ...
+Setting up ed (1.17) ...
+Setting up nano (5.5) ...
+Log ended: 2021-02-03  12:51:47

@@ -1,0 +1,73 @@
+Origin: Bintray
+Label: Bintray
+Suite: science
+Codename: science
+Date: Tue, 02 Feb 2021 02:28:47 UTC
+Components: stable
+Architectures: aarch64 amd64 arm i386 i686 x86_64
+MD5Sum:
+ 215c9d8e0d41b3c50d137dbe085844f3            41130 stable/binary-aarch64/Packages
+ 30df1e8abd0868b5540dc00fb2e64a09             8948 stable/binary-aarch64/Packages.bz2
+ a9efc35b8137b371c075a21ef67bc354            10297 stable/binary-aarch64/Packages.gz
+ a4a4f241324c3b32a3d0c23c186e3d38            30931 stable/binary-all/Packages
+ cd3110c3a2691a498a452a186e0500b5             5700 stable/binary-all/Packages.bz2
+ 85d2af493be1296c92d4dde3d70d81d1             6653 stable/binary-all/Packages.gz
+ a4a4f241324c3b32a3d0c23c186e3d38            30931 stable/binary-amd64/Packages
+ cd3110c3a2691a498a452a186e0500b5             5700 stable/binary-amd64/Packages.bz2
+ 85d2af493be1296c92d4dde3d70d81d1             6653 stable/binary-amd64/Packages.gz
+ bb1166f549e03cfd7fc80062530372ab            40865 stable/binary-arm/Packages
+ 9c29e7431351cb9fe62edfadcfaa89fb             8927 stable/binary-arm/Packages.bz2
+ 50a93fa2afb2d57745c1a193373bcbd5            10300 stable/binary-arm/Packages.gz
+ a4a4f241324c3b32a3d0c23c186e3d38            30931 stable/binary-i386/Packages
+ cd3110c3a2691a498a452a186e0500b5             5700 stable/binary-i386/Packages.bz2
+ 85d2af493be1296c92d4dde3d70d81d1             6653 stable/binary-i386/Packages.gz
+ 320b284abfb65b13dbbbdb7dcc76f9e8            40930 stable/binary-i686/Packages
+ e74f4be6c6a6fda2dd606b71de419275             8943 stable/binary-i686/Packages.bz2
+ 576b64af5c745ff8e3422c1a681f7d0d            10288 stable/binary-i686/Packages.gz
+ 359aa3540a7c068dbe6c87a2a2004091            41065 stable/binary-x86_64/Packages
+ c6f17155befa6d86a6d80a03ba32e208             8947 stable/binary-x86_64/Packages.bz2
+ 7b102befe7ddc1427c2b922e1236fe4c            10294 stable/binary-x86_64/Packages.gz
+SHA1:
+ 0cdbce108cb6ab326587b2680cde75ad25f65efb            41130 stable/binary-aarch64/Packages
+ e0f3c1b3dd9bea5f58259aacbbb36db195abdceb             8948 stable/binary-aarch64/Packages.bz2
+ 64680e43eef79d87703bf5d3f940f255cd8d14bf            10297 stable/binary-aarch64/Packages.gz
+ e572880cfd509b99dc423eab07ed1702e4649b21            30931 stable/binary-all/Packages
+ c546736a73eeac5f52820e2f18d48503a12f8bf1             5700 stable/binary-all/Packages.bz2
+ c4923e6584af0b1e06dd5b800139d46a5b2e1f2c             6653 stable/binary-all/Packages.gz
+ e572880cfd509b99dc423eab07ed1702e4649b21            30931 stable/binary-amd64/Packages
+ c546736a73eeac5f52820e2f18d48503a12f8bf1             5700 stable/binary-amd64/Packages.bz2
+ c4923e6584af0b1e06dd5b800139d46a5b2e1f2c             6653 stable/binary-amd64/Packages.gz
+ 1d3af93cdb7c3eef68d31e1407698bc0ec9cb31d            40865 stable/binary-arm/Packages
+ b253faa3ab93daa1742111fe91f93cd92ac5dbff             8927 stable/binary-arm/Packages.bz2
+ 96d98af753e1fd10569351eefc359abf1503fb67            10300 stable/binary-arm/Packages.gz
+ e572880cfd509b99dc423eab07ed1702e4649b21            30931 stable/binary-i386/Packages
+ c546736a73eeac5f52820e2f18d48503a12f8bf1             5700 stable/binary-i386/Packages.bz2
+ c4923e6584af0b1e06dd5b800139d46a5b2e1f2c             6653 stable/binary-i386/Packages.gz
+ bc87f06ad008827b4a02573d3ae417c746c29a23            40930 stable/binary-i686/Packages
+ f99f9a8c10b27ca315f908b6ff62d2f65d796986             8943 stable/binary-i686/Packages.bz2
+ 99014554053acd9f15c3ae48b260bcd0e082bfd9            10288 stable/binary-i686/Packages.gz
+ a358e517f575bc44e35518277798ab3b95db595b            41065 stable/binary-x86_64/Packages
+ de9434dc1a60ad5db2ad5e981b9c2e0b295348e6             8947 stable/binary-x86_64/Packages.bz2
+ c3b922edfdddb4b5d404213b0c76c7b0c3353268            10294 stable/binary-x86_64/Packages.gz
+SHA256:
+ ace6086a463d282328f26a84ca6fdce023c9c4f5c9382ddbab737cedc26fbebb            41130 stable/binary-aarch64/Packages
+ 6362ee588469711ffaf594bb1eb87cd8d24be0f093ecd09d00674b530238e2aa             8948 stable/binary-aarch64/Packages.bz2
+ 7cbc64d1f6b233b6a01c9ed38a0d1f30e1c436e2b1af97210d7e21ad899a64d3            10297 stable/binary-aarch64/Packages.gz
+ 1f3db892a048c272b432f7075dc7673237bdcc9913e9acfdba079da6d8cc461b            30931 stable/binary-all/Packages
+ 741b5b472a6118b031a4f1460b82c4eb406e59c7fb891764243b9c1307bec483             5700 stable/binary-all/Packages.bz2
+ 3f48225a5b6048912e02e6b60da75d092121a1333fd980f76c477e1afeb9ce6a             6653 stable/binary-all/Packages.gz
+ 1f3db892a048c272b432f7075dc7673237bdcc9913e9acfdba079da6d8cc461b            30931 stable/binary-amd64/Packages
+ 741b5b472a6118b031a4f1460b82c4eb406e59c7fb891764243b9c1307bec483             5700 stable/binary-amd64/Packages.bz2
+ 3f48225a5b6048912e02e6b60da75d092121a1333fd980f76c477e1afeb9ce6a             6653 stable/binary-amd64/Packages.gz
+ eeac33dd18b660e76766cdc926fa65c3436da8980542c592bacefe82a45c12da            40865 stable/binary-arm/Packages
+ 3200aa55a65b333e0f19b5f25bdeaeb5f254135a6d65a3b7379fd0b065acc7b4             8927 stable/binary-arm/Packages.bz2
+ d164ff645f8323f4ed7a39b459db3ec169dd2516b886728ddcbc57549fb8f4e5            10300 stable/binary-arm/Packages.gz
+ 1f3db892a048c272b432f7075dc7673237bdcc9913e9acfdba079da6d8cc461b            30931 stable/binary-i386/Packages
+ 741b5b472a6118b031a4f1460b82c4eb406e59c7fb891764243b9c1307bec483             5700 stable/binary-i386/Packages.bz2
+ 3f48225a5b6048912e02e6b60da75d092121a1333fd980f76c477e1afeb9ce6a             6653 stable/binary-i386/Packages.gz
+ 4354d17ce31403ccea28dd750ecd44c4fefc6559d4663b6532ea0c26a90834a0            40930 stable/binary-i686/Packages
+ 36183ea07b64ba334acd8a6b4530119724f3eae1c30f5354700a3157275887d5             8943 stable/binary-i686/Packages.bz2
+ 3421dcca35511c9172435cbea8c2a84ec4113e1c034d70c6101aa4fe679396d6            10288 stable/binary-i686/Packages.gz
+ 8d358e03144a9709769fac36e1a4a8caf214aa2eb1394c22a83702c2002ccf04            41065 stable/binary-x86_64/Packages
+ ea5ffcfb3b3a5bbb080f65db369936e717459ab0c00a2596048e8e8cdf3af3cd             8947 stable/binary-x86_64/Packages.bz2
+ 6dcc1127ea4895614a060f7c3a33e6c4493ca0063761ce05331967edf1383205            10294 stable/binary-x86_64/Packages.gz

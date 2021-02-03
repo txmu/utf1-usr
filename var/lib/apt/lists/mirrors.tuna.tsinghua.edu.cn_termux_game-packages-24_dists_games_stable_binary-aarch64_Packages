@@ -1,0 +1,362 @@
+Package: angband
+Architecture: aarch64
+Installed-Size: 22696
+Maintainer: Termux members @termux
+Version: 4.2.1
+Homepage: http://rephial.org/
+Depends: ncurses
+Description: Dungeon exploration adventure game
+Filename: aarch64/angband_4.2.1_aarch64.deb
+SHA1: 64e392c3d249c3c9aab2ce946eba3ad14a0e609d
+SHA256: 459ecda8c7ae9aa79cbb8c210a8d8dd4d3929a5089b9148473f2e60d0e5ac9f0
+Size: 20228926
+
+Package: bastet
+Architecture: aarch64
+Installed-Size: 404
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Version: 0.43.2-6
+Homepage: http://fph.altervista.org/prog/bastet.html
+Depends: libc++, ncurses
+Description: Tetris clone with 'bastard' block-choosing AI
+Filename: aarch64/bastet_0.43.2-6_aarch64.deb
+SHA1: c0d075526e2026dd00019eaaef2a03788bfbd402
+SHA256: 218c40009d12532d69cd39eb199b7858bb27dd9885c05cf2dccd4c4de38fa427
+Size: 97912
+
+Package: brogue
+Architecture: aarch64
+Installed-Size: 904
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.7.5
+Homepage: https://sites.google.com/site/broguegame/
+Depends: ncurses
+Description: Roguelike dungeon crawling game
+Filename: aarch64/brogue_1.7.5_aarch64.deb
+SHA1: b675316f8497c7a0d055c6ed98d5e3bb333198a2
+SHA256: 1cfcc21e1346899ab01734b567466669b5ea415acbaa8857e89725fdb1f9f1d3
+Size: 207696
+
+Package: cavez-of-phear
+Architecture: aarch64
+Installed-Size: 240
+Maintainer: Henrik Grimler @Grimler91
+Version: 0.5.1
+Homepage: https://github.com/haakonnessjoen/Cavez-of-Phear-packaging
+Depends: ncurses
+Description: A Boulder Dash like game for consoles/terminals
+Filename: aarch64/cavez-of-phear_0.5.1_aarch64.deb
+SHA1: 4cf4146e8954914113699dde525f031b8931ee7a
+SHA256: 8391456ee6ec0cac26196843c0885bde0e61b99a64125c5fc73f6657b07c8600
+Size: 13104
+
+Package: cboard
+Architecture: aarch64
+Installed-Size: 224
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.7.5
+Homepage: https://benkibbey.wordpress.com/cboard/
+Depends: libandroid-support,libandroid-glob,gnuchess, ncurses, ncurses-ui-libs
+Description: PGN browser, editor and chess engine frontend
+Filename: aarch64/cboard_0.7.5_aarch64.deb
+SHA1: 1063e6219eaf1922793a2253e8f0db691c84b3fd
+SHA256: f08cc9b7b577550ed055b3fc4668d040df465f2471e698d8dd2c5c98e9b4f4e6
+Size: 67276
+
+Package: curseofwar
+Architecture: aarch64
+Installed-Size: 112
+Maintainer: Termux members @termux
+Version: 1.3.0
+Homepage: http://a-nikolaev.github.io/curseofwar/
+Depends: libc++, ncurses
+Description: Fast-paced action strategy game focusing on high-level strategic planning
+Filename: aarch64/curseofwar_1.3.0_aarch64.deb
+SHA1: 3a18c58aaef3e9fe1176ebf46c7d80257697a307
+SHA256: 63c940dab5fe0183b96837c6c97efbacaff3a4709359dd056dc61e2cce3d2ab0
+Size: 26380
+
+Package: dmagnetic
+Architecture: aarch64
+Installed-Size: 176
+Maintainer: default
+Version: 0.29
+Homepage: https://www.dettus.net/dMagnetic
+Description: Interpreter for classic text adventure games and interactive fiction
+Filename: aarch64/dmagnetic_0.29_aarch64.deb
+SHA1: 72a7b528d0beeb6657c5569100fcc35dd20b33c7
+SHA256: efcdd153cda7aeb1a91f2f1e55e23a5c0ab2fb419cc5bd0319be2d075db80d16
+Size: 51588
+
+Package: dopewars
+Architecture: aarch64
+Installed-Size: 736
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.5.12-3
+Homepage: https://dopewars.sourceforge.io
+Depends: ncurses, glib, pcre
+Description: Drug-dealing game set in streets of New York City
+Filename: aarch64/dopewars_1.5.12-3_aarch64.deb
+SHA1: adb8aabb28d10fb64428d880f34a3959d1a7536b
+SHA256: 9f72f878568e464802868354a36f23a46c2c7617b111ef83bfce8a9d356e9728
+Size: 244312
+
+Package: frotz
+Architecture: aarch64
+Installed-Size: 184
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.51
+Homepage: https://gitlab.com/DavidGriffith/frotz
+Depends: ncurses, dialog, curl
+Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
+Filename: aarch64/frotz_2.51_aarch64.deb
+SHA1: ff4b36b5d47697e0ca89a24273f9906991995819
+SHA256: 91cdd0c6f17c0ac366aa06d52a6dc3ad673dcc78d691ffee8ae27455acfad388
+Size: 55458
+
+Package: glulxe
+Architecture: aarch64
+Installed-Size: 300
+Maintainer: Termux members @termux
+Version: 0.5.4-3
+Homepage: https://www.eblong.com/zarf/glulx/
+Depends: ncurses
+Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
+Filename: aarch64/glulxe_0.5.4-3_aarch64.deb
+SHA1: 71265be099b308e4e92b288e436cc0911d4fd2c4
+SHA256: 1ae3500eeae3beaff0bac02acd03f3eb5c157559a5ef2422378edd96d695bd95
+Size: 70956
+
+Package: gnuchess
+Architecture: aarch64
+Installed-Size: 488
+Maintainer: Termux members @termux
+Version: 6.2.7
+Homepage: https://www.gnu.org/software/chess/
+Depends: libc++, ncurses, readline
+Description: Chess-playing program
+Filename: aarch64/gnuchess_6.2.7_aarch64.deb
+SHA1: aee7bcbfbc4eea6ce7f6f125bd13b22bc2eed6d3
+SHA256: eab90ed803da74e76fd4de33ecb6eeb9770e0eac28e29b76904d740bed5f4605
+Size: 147604
+
+Package: gnugo
+Architecture: aarch64
+Installed-Size: 7584
+Maintainer: Fredrik Fornwall @fornwall
+Version: 3.8-1
+Homepage: https://www.gnu.org/software/gnugo/
+Depends: ncurses, readline
+Description: Program that plays the game of Go
+Filename: aarch64/gnugo_3.8-1_aarch64.deb
+SHA1: 63882420872de7aba2f375f5027ae37c4a4820fe
+SHA256: 32ef28920dd07990c09d87d692645131eb82a602f4adc71e557dcc98d35b39f2
+Size: 842132
+
+Package: gnushogi
+Architecture: aarch64
+Installed-Size: 172
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.4.2-1
+Homepage: https://www.gnu.org/software/gnushogi/
+Depends: ncurses
+Description: Program that plays the game of Shogi, also known as Japanese Chess
+Filename: aarch64/gnushogi_1.4.2-1_aarch64.deb
+SHA1: f58c7bf964119ae1ad910beb938d06bc070a495a
+SHA256: d2a20b0f4918c6909c39e0e2ae99825e69fb5d590af384fd0cf6afe0fa833132
+Size: 60018
+
+Package: gnuski
+Architecture: aarch64
+Installed-Size: 56
+Maintainer: Henrik Grimler @Grimler91
+Version: 0.3-5
+Homepage: https://sourceforge.net/projects/gnuski
+Depends: ncurses
+Description: Open source clone of Skifree, the old Windows game
+Filename: aarch64/gnuski_0.3-5_aarch64.deb
+SHA1: 6faf9b8dd5beb8c1298e16453f282dd7be49d59c
+SHA256: b56e38ebc1060cd146f41847fc03c489acae27da1f83d5f6fbe8812ee55d6417
+Size: 3970
+
+Package: greed
+Architecture: aarch64
+Installed-Size: 68
+Maintainer: Fredrik Fornwall @fornwall
+Version: 4.2
+Homepage: http://www.catb.org/~esr/greed/
+Depends: ncurses
+Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
+Filename: aarch64/greed_4.2_aarch64.deb
+SHA1: 5a3ac41fabba409905a0cd41c28ab8d6a14f33c7
+SHA256: 2401f4292b28ba416aa2313911a53257d9687b65ef483a8f74b6d255596a7a68
+Size: 8484
+
+Package: lexter
+Architecture: aarch64
+Installed-Size: 812
+Maintainer: Henrik Grimler @Grimler91
+Version: 1.0.3-2
+Homepage: https://www.kyne.com.au/~mark/software/lexter.php
+Depends: ncurses, gettext
+Description: A real-time word puzzle for text terminals
+Filename: aarch64/lexter_1.0.3-2_aarch64.deb
+SHA1: bd896eae8823fdc1bbaa59f911ebe78069bf9bf1
+SHA256: d5f295d0d5e18469e66cb1088e15c921200a502a2a0a0639b935200d8fd31e82
+Size: 167330
+
+Package: moon-buggy
+Architecture: aarch64
+Installed-Size: 128
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.51-1
+Homepage: https://github.com/seehuhn/moon-buggy
+Depends: ncurses
+Description: Simple game where you drive a car across the moon's surface
+Filename: aarch64/moon-buggy_1.0.51-1_aarch64.deb
+SHA1: f4d20e620a5c8376c66d4bf06bf6e05f6db05cee
+SHA256: 4e6220027190c68a48a6f713034b58db2c13136e24e6f0706bfc3e2689434d5d
+Size: 28658
+
+Package: moria
+Architecture: aarch64
+Installed-Size: 756
+Maintainer: Termux members @termux
+Version: 5.7.13
+Homepage: https://umoria.org
+Depends: libc++, ncurses
+Description: Rogue-like game with an infinite dungeon
+Filename: aarch64/moria_5.7.13_aarch64.deb
+SHA1: 053c0b58c7624196699f3c35813fc8235cd31604
+SHA256: 11edb40073567cb0b9766c2d438fac1c6437137c58453641f5c1d4b7e91d3ddf
+Size: 207294
+
+Package: myman
+Architecture: aarch64
+Installed-Size: 14248
+Maintainer: Henrik Grimler @Grimler91
+Version: 0.7.1-4
+Homepage: https://sourceforge.net/projects/myman/
+Depends: ncurses
+Description: Video game for color and monochrome text terminals in the genre of Namco's Pac-Man
+Filename: aarch64/myman_0.7.1-4_aarch64.deb
+SHA1: e85eeffab7fc83ff67a3be74b2becc861391ef1e
+SHA256: 5bd007a4f03630d589768679e9692dd3167d52ec34a04b067fa576586fcbd075
+Size: 665560
+
+Package: nethack
+Architecture: aarch64
+Installed-Size: 4184
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Version: 3.6.6-3
+Homepage: http://www.nethack.org/
+Depends: gzip, ncurses
+Description: Dungeon crawl game
+Filename: aarch64/nethack_3.6.6-3_aarch64.deb
+SHA1: 49a975eaea234fe6ad49d5d2ad165d1a966db220
+SHA256: 57727127167f1bc904884fc2bb58805a398e0ddbd2c17010641fc6db0dae7230
+Size: 1325338
+
+Package: ninvaders
+Architecture: aarch64
+Installed-Size: 80
+Maintainer: Termux members @termux
+Version: 0.1.2
+Homepage: http://ninvaders.sourceforge.net
+Depends: ncurses
+Description: Space Invaders clone based on ncurses for ASCII output
+Filename: aarch64/ninvaders_0.1.2_aarch64.deb
+SHA1: 0f891697704726cd9dbd3ee4ae35ca9d3e0fa6a0
+SHA256: 0564681e6f8d77b859ae96ef278bf1074da405701aa7a964e57c685a8a70ce63
+Size: 13202
+
+Package: nsnake
+Architecture: aarch64
+Installed-Size: 460
+Maintainer: Fredrik Fornwall @fornwall
+Version: 3.0.1-1
+Homepage: https://github.com/alexdantas/nSnake
+Depends: libc++, ncurses
+Description: The classic snake game with textual interface
+Filename: aarch64/nsnake_3.0.1-1_aarch64.deb
+SHA1: 69f60337a0c508baadea9270daf173c00db6f18b
+SHA256: 0292d89dd90102b90ed7fd9792e4eab2a1aa68ab5375613212a5517bd88a009d
+Size: 79888
+
+Package: nudoku
+Architecture: aarch64
+Installed-Size: 72
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.0.0
+Homepage: http://jubalh.github.io/nudoku/
+Depends: ncurses
+Description: ncurses based sudoku game
+Filename: aarch64/nudoku_2.0.0_aarch64.deb
+SHA1: 892be211a618c8355ac63aa59cc537d45e264f94
+SHA256: 40a4f83064ccc9b01f833797cbac44fb1ff3a5b6d27af97992915a2067ec8550
+Size: 7894
+
+Package: open-adventure
+Architecture: aarch64
+Installed-Size: 256
+Maintainer: Henrik Grimler @Grimler91
+Version: 1.9
+Homepage: http://www.catb.org/~esr/open-adventure/
+Depends: libedit
+Description: Forward-port of the original Colossal Cave Adventure from 1976-77
+Filename: aarch64/open-adventure_1.9_aarch64.deb
+SHA1: 67dd7a3e99527d869cde7c99e2222ec4bd89983b
+SHA256: 11cb1734ea3b36c76586b4eedf7ebf8a37f7b2d7d74283fdd37e54f7da850d8a
+Size: 47186
+
+Package: pacman4console
+Architecture: aarch64
+Installed-Size: 148
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.3
+Homepage: https://sites.google.com/site/doctormike/pacman.html
+Depends: ncurses
+Description: A 9 level ncurses pacman game with editor
+Filename: aarch64/pacman4console_1.3_aarch64.deb
+SHA1: c3e64a8beb32780aa110978b77333dce62bed8bd
+SHA256: 61f00b6df871887c7f848a34e481dc1233d22d473ffd83eee3b31e457b294c70
+Size: 11822
+
+Package: snake
+Architecture: aarch64
+Installed-Size: 84
+Maintainer: Tipz Team @TipzTeam
+Version: 2017.06.09-1
+Homepage: https://github.com/gogakoreli/snake
+Description: Eat as much as you want while avoiding walls.
+Filename: aarch64/snake_2017.06.09-1_aarch64.deb
+SHA1: 478fad5838bd0f6c0e610d4c6f1bf1e88a168f10
+SHA256: 77e0ac846dc3c522f67833c6550d752d675b137421063dd97e1cc8ce9afca71a
+Size: 16292
+
+Package: tty-solitaire
+Architecture: aarch64
+Installed-Size: 68
+Maintainer: Termux members @termux
+Version: 1.3.0-3
+Homepage: https://github.com/mpereira/tty-solitaire
+Depends: ncurses
+Description: Klondike solitaire game
+Filename: aarch64/tty-solitaire_1.3.0-3_aarch64.deb
+SHA1: 192e8d2cd3e52c316c36a687c81f7f0253902168
+SHA256: c549bac42814a3df81a25d59cc0ab804ed21e7d7fc943b0dead6188698773af4
+Size: 8382
+
+Package: vitetris
+Architecture: aarch64
+Installed-Size: 156
+Maintainer: Termux members @termux
+Version: 0.58.0-1
+Homepage: http://victornils.net/tetris/
+Depends: ncurses
+Description: Virtual terminal *tris clone
+Filename: aarch64/vitetris_0.58.0-1_aarch64.deb
+SHA1: 083d1230d0bf9a5aaa158d3326d2b81e19eda47d
+SHA256: d16112ba039c691600eee9d1dd788db760aff417ba0b0e907c526052e885723d
+Size: 42586
+

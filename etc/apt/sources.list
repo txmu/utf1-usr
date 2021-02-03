@@ -1,0 +1,2 @@
+#deb https://termux.org/packages/ stable main
+deb https://mirrors.tuna.tsinghua.edu.cn/termux/termux-packages-24 stable main
